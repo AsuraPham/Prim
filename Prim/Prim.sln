@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim", "Prim\Prim.vcxproj", "{67A7DA43-11BE-4FCC-B45B-966F718F2D76}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prim_V2", "prim_V2\prim_V2.vcxproj", "{91C0AFF3-C471-4084-816E-4C37C34163A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A7DA43-11BE-4FCC-B45B-966F718F2D76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{67A7DA43-11BE-4FCC-B45B-966F718F2D76}.Debug|Win32.Build.0 = Debug|Win32
+		{67A7DA43-11BE-4FCC-B45B-966F718F2D76}.Release|Win32.ActiveCfg = Release|Win32
+		{67A7DA43-11BE-4FCC-B45B-966F718F2D76}.Release|Win32.Build.0 = Release|Win32
+		{91C0AFF3-C471-4084-816E-4C37C34163A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91C0AFF3-C471-4084-816E-4C37C34163A5}.Debug|Win32.Build.0 = Debug|Win32
+		{91C0AFF3-C471-4084-816E-4C37C34163A5}.Release|Win32.ActiveCfg = Release|Win32
+		{91C0AFF3-C471-4084-816E-4C37C34163A5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
